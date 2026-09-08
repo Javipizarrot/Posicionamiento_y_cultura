@@ -15,7 +15,7 @@ Cada equipo toma decisiones y se hace cargo de lo que construye, creando solucio
 
 
 
-## 🤝 Cómo construimos juntos
+## Juntos hacemos Buk 💙
 
 Potenciamos equipos de alto desempeño en un entorno que impulsa grandes desafíos, excelencia técnica y aprendizaje constante.
 
