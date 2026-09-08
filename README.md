@@ -40,10 +40,10 @@ Detrás de todo lo que construimos hay equipos que comparten desafíos, aprenden
 
 Porque Buk no se construye solo desde el código, sino también desde las personas que están detrás de él.
 
-*Siguiente paso:* 👉[Explora nuestro Pilar 2: Evidencia (Arquitectura, escala y prácticas reales)](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)
-
-
 #### [🧬 Conoce el ADN de Buk](https://drive.google.com/file/d/1GZVahRpCDrBgXnSh_nRLnrP94P-5PO1R/view)
+
+
+*Siguiente paso:* 👉[Explora nuestro Pilar 2: Evidencia (Arquitectura, escala y prácticas reales)](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)
 
 
 ---
