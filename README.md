@@ -11,7 +11,7 @@ Estamos construyendo la comunidad de RR.HH. más grande de Latinoamérica, para 
 
 Cada equipo toma decisiones y se hace cargo de lo que construye, creando soluciones eficientes, sólidas y preparadas para crecer.
 
-### [🚀 Conoce cómo construimos producto en Buk](https://drive.google.com/file/d/1IslY7l2t6zdo_00n96kRE6CNMfuzGhHE/view)
+### [🧩 Conoce cómo construimos producto en Buk](https://drive.google.com/file/d/1IslY7l2t6zdo_00n96kRE6CNMfuzGhHE/view)
 
 
 
