@@ -2,6 +2,8 @@
 
 ## 🌎 Usamos tecnología para crear lugares de trabajo más felices
 
+Estamos construyendo la comunidad de RR.HH. más grande de Latinoamérica, para que las empresas puedan enfocarse en lo que realmente importa: las personas.
+
 ### [💙 Conoce Buk por dentro](https://drive.google.com/file/d/1gRVTLFDlrKsMJ-yp8y2YFisZzm3OP3pO/view)
 
 
