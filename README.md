@@ -1,4 +1,3 @@
-# Cómo vivimos Buk 💙
 
 ## 🌎 Creamos tecnología desde Latinoamérica para Latinoamérica
 
