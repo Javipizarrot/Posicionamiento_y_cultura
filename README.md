@@ -1,5 +1,5 @@
 
-### 🌎 Creamos tecnología desde Latinoamérica para Latinoamérica
+## 🌎 Creamos tecnología desde Latinoamérica para Latinoamérica
 
 En Buk construimos tecnología pensada para los desafíos reales de nuestra región. Queremos que las empresas puedan dedicar más tiempo a lo que realmente importa: las personas.
 
