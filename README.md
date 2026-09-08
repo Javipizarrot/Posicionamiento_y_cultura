@@ -45,4 +45,3 @@ Porque Buk no se construye solo desde el código, sino también desde las person
 
 ---
 
-### [👉 Sigue explorando: Arquitectura, escala y prácticas reales](https://github.com/CLeonRecruiter/Arquitectura-Escala-y-Practicas-Reales)
