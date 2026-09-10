@@ -3,7 +3,7 @@
 
 En Buk construimos tecnología pensada para los desafíos reales de nuestra región. Queremos que las empresas puedan dedicar más tiempo a lo que realmente importa: las personas.
 
-#### ▶️  [💙 Conoce Buk por dentro](https://drive.google.com/file/d/1gRVTLFDlrKsMJ-yp8y2YFisZzm3OP3pO/view)
+#### ▶️ <img src="168c45a1-7b6f-4a8d-a523-b87cc8a0bed6.png" width="30"> [Conoce Buk por dentro](https://drive.google.com/file/d/1gRVTLFDlrKsMJ-yp8y2YFisZzm3OP3pO/view)
 
 
 ###  <img src="2e99c22f-1cb3-4a45-8546-bbf66e11d126.png" width="30"> Somos dueños de lo que construimos
