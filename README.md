@@ -12,7 +12,7 @@ Nuestros equipos tienen autonomía para tomar decisiones y hacerse cargo de todo
 
 Construimos pensando en calidad, productividad y escalabilidad, con la libertad de decidir cómo abordar cada desafío.
 
-#### [🧩 Conoce cómo construimos producto en Buk](https://drive.google.com/file/d/1IslY7l2t6zdo_00n96kRE6CNMfuzGhHE/view)
+#### [Conoce cómo construimos producto en Buk](https://drive.google.com/file/d/1IslY7l2t6zdo_00n96kRE6CNMfuzGhHE/view)
 
 
   ### <img src="eb159b0c-06a1-4389-a47e-2f9fbabc9bc8.png" width="30"> Construimos para una escala real
@@ -40,7 +40,7 @@ Detrás de todo lo que construimos hay equipos que comparten desafíos, aprenden
 
 Porque Buk no se construye solo desde el código, sino también desde las personas que están detrás de él.
 
-#### [🧬 Conoce el ADN de Buk](https://drive.google.com/file/d/1GZVahRpCDrBgXnSh_nRLnrP94P-5PO1R/view)
+#### [Conoce el ADN de Buk](https://drive.google.com/file/d/1GZVahRpCDrBgXnSh_nRLnrP94P-5PO1R/view)
 
 
 *Siguiente paso:* 👉 **[Explora nuestro Pilar 2: Evidencia (Arquitectura, escala y prácticas reales)](https://github.com/Javipizarrot/arquitectura_escala_practicas_reales.git)**
