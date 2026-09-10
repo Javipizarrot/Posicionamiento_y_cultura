@@ -6,7 +6,7 @@ En Buk construimos tecnología pensada para los desafíos reales de nuestra regi
 #### [💙 Conoce Buk por dentro](https://drive.google.com/file/d/1gRVTLFDlrKsMJ-yp8y2YFisZzm3OP3pO/view)
 
 
-###  <img src="3c5fed40-9c72-4f6d-ac75-2155bffbc686.png" width="30"> Somos dueños de lo que construimos
+###  <img src="2e99c22f-1cb3-4a45-8546-bbf66e11d126.png" width="30"> Somos dueños de lo que construimos
 
 Nuestros equipos tienen autonomía para tomar decisiones y hacerse cargo de todo el ciclo de lo que construyen: desde diseñar y desarrollar una solución hasta verla funcionando en producción.
 
@@ -15,7 +15,7 @@ Construimos pensando en calidad, productividad y escalabilidad, con la libertad 
 #### [🧩 Conoce cómo construimos producto en Buk](https://drive.google.com/file/d/1IslY7l2t6zdo_00n96kRE6CNMfuzGhHE/view)
 
 
-### <img src=""> Construimos para una escala real
+  ### <img src="eb159b0c-06a1-4389-a47e-2f9fbabc9bc8.png" width="30"> Construimos para una escala real
 
 Hoy nuestra tecnología impacta a más de 2 millones de usuarios en Latinoamérica, lo que nos desafía constantemente a construir soluciones sólidas y preparadas para crecer.
 
